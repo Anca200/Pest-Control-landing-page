@@ -12,7 +12,7 @@ export default {
     },
     
       backgroundImage: {
-       "footerImage" : "url('../src/assets/footerImg.webp')"
+       "footerImage" : "url('../../src/assets/footerImg.webp')"
       }
     
   },
